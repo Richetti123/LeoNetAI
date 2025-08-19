@@ -35,6 +35,7 @@ import { handler as subirComprobanteHandler } from './plugins/subircomprobante.j
 import { handleListButtonResponse } from './lib/listbuttons.js';
 import { handler as editarstockHandler } from './plugins/editarstock.js';
 import { handler as editarprecioHandler } from './plugins/editarprecio.js';
+import { handler as editarservicioHandler } from './plugins/editarservicio.js';
 import chalk from 'chalk';
 
 const normalizarNumero = (numero) => {
@@ -737,6 +738,10 @@ export async function handler(m, conn, store) {
                     case 'editarprecio':
                         if (!m.isOwner) return m.reply(`❌ Solo el propietario puede usar este comando.`);
                         await editarprecioHandler(m, { conn, text: commandText, command: m.command, usedPrefix: m.prefix, isOwner: m.isOwner });
+                        break;
+                    case 'editarservicio':
+                        if (!m.isOwner) return m.reply(`❌ Solo el propietario puede usar este comando.`);
+                        await editarservicioHandler(m, { conn, text: commandText, command: m.command, usedPrefix: m.prefix, isOwner: m.isOwner });
                         break;
                     default:
                         break;
