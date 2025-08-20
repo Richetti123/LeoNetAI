@@ -105,5 +105,3 @@ handler.help = [
 ];
 handler.tags = ['owner'];
 handler.command = /^(addservice|deleteservice)$/i;
-
-export { handler };
