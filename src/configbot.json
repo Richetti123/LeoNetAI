@@ -298,6 +298,20 @@
         "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
       },
       {
+        "id": "canva_4",
+        "pregunta": "Canva 4 meses",
+        "precio": "35 MX",
+        "stock": 10,
+        "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
+      },
+      {
+        "id": "canva_5",
+        "pregunta": "Canva 5 meses",
+        "precio": "40 MX",
+        "stock": 10,
+        "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
+      },
+      {
         "id": "canva_6",
         "pregunta": "Canva 6 meses",
         "precio": "30 MX",
