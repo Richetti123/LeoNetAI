@@ -8,21 +8,21 @@
         "id": "netflix_extra",
         "pregunta": "Perfil Netflix Extra",
         "precio": "65 MX",
-        "stock": 10,
+        "stock": 0,
         "descripcion": "El plan Netflix Extra (Privado) te permite tener un perfil seguro y personal con PIN de bloqueo dentro de una cuenta compartida. Disfruta de la mejor calidad de imagen en 4K UHD y la experiencia de un plan Premium."
       },
       {
         "id": "disney_premium",
         "pregunta": "Perfil Disney Premium",
         "precio": "25 MX",
-        "stock": 10,
+        "stock": 8,
         "descripcion": "Disney+ Premium ofrece una experiencia de streaming completa con resolución hasta 4K UHD y HDR, además de audio Dolby Atmos. Puedes ver en 4 dispositivos a la vez y descargar contenido en hasta 10 dispositivos."
       },
       {
         "id": "max_estandar",
         "pregunta": "Perfil Max Estándar",
         "precio": "10 MX",
-        "stock": 5,
+        "stock": 2,
         "descripcion": "El plan Max Estándar te permite ver contenido en resolución Full HD (1080p), con sonido estéreo y en hasta 2 dispositivos simultáneamente. Es una opción perfecta para disfrutar de películas y series con una gran calidad de imagen."
       },
       {
@@ -128,7 +128,7 @@
       {
         "id": "disney_premium_completa",
         "pregunta": "Cuenta Disney Premium",
-        "precio": "120 MX",
+        "precio": "100 MX",
         "stock": 10,
         "descripcion": "Acceso a todo el catálogo de Disney+, Star+ y ESPN en una cuenta completa. Disfruta de la mejor calidad de imagen en 4K UHD y HDR, con audio Dolby Atmos y la posibilidad de ver en hasta 4 dispositivos simultáneamente."
       },
@@ -149,14 +149,14 @@
       {
         "id": "max_platino_completo",
         "pregunta": "Cuenta Max Platino",
-        "precio": "65 MX",
+        "precio": "60 MX",
         "stock": 10,
         "descripcion": "Una cuenta completa de Max Platino con acceso a 4 dispositivos simultáneos, resolución 4K UHD y audio Dolby Atmos. Disfruta de la mejor experiencia de streaming con la máxima calidad."
       },
       {
         "id": "prime_sin_anuncios",
         "pregunta": "Cuenta Prime Sin Anuncios",
-        "precio": "45 MX",
+        "precio": "50 MX",
         "stock": 10,
         "descripcion": "Una cuenta completa de Prime Video sin anuncios, que te permite disfrutar de todo el catálogo de series y películas sin interrupciones. Disfruta de una experiencia fluida y sin comerciales."
       },
@@ -171,7 +171,7 @@
         "id": "vix_1_mes_completo",
         "pregunta": "Cuenta Vix 1 Mes",
         "precio": "15 MX",
-        "stock": 10,
+        "stock": 9,
         "descripcion": "Acceso a una cuenta completa de Vix Premium por un mes. Disfruta de contenido exclusivo, series, películas y eventos deportivos sin anuncios."
       },
       {
@@ -229,7 +229,7 @@
         "id": "spotify_1",
         "pregunta": "Spotify Premium 1 Mes (Renovable)",
         "precio": "35 MX",
-        "stock": 10,
+        "stock": 9,
         "descripcion": "Con Spotify Premium, disfruta de música sin anuncios, con saltos ilimitados y la posibilidad de escuchar tu música favorita en cualquier lugar, incluso sin conexión."
       },
       {
@@ -286,14 +286,14 @@
       {
         "id": "canva_2",
         "pregunta": "Canva 2 meses",
-        "precio": "20 MX",
+        "precio": "25 MX",
         "stock": 10,
         "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
       },
       {
         "id": "canva_3",
         "pregunta": "Canva 3 meses",
-        "precio": "25 MX",
+        "precio": "30 MX",
         "stock": 10,
         "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
       },
@@ -314,15 +314,15 @@
       {
         "id": "canva_6",
         "pregunta": "Canva 6 meses",
-        "precio": "30 MX",
+        "precio": "50 MX",
         "stock": 10,
         "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
       },
       {
         "id": "canva_12",
         "pregunta": "Canva 1 Año",
-        "precio": "40 MX",
-        "stock": 10,
+        "precio": "65 MX",
+        "stock": 9,
         "descripcion": "Canva Pro te permite crear diseños profesionales con herramientas avanzadas como el kit de marca, el redimensionamiento mágico y el eliminador de fondos. Disfruta de millones de plantillas y fotos de stock."
       }
     ],
@@ -358,7 +358,7 @@
       {
         "id": "chat_gtp",
         "pregunta": "Invitación Chat GTP",
-        "precio": "50 MX",
+        "precio": "40 MX",
         "stock": 10,
         "descripcion": "Una suscripción a ChatGPT Plus te da acceso prioritario a los modelos más avanzados de OpenAI, incluyendo GPT-4o, con límites de uso ampliados y funciones exclusivas para mejorar tu productividad y creatividad."
       },
