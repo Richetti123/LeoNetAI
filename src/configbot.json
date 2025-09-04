@@ -40,6 +40,34 @@
         "descripcion": "Prime Video Sin Anuncios te ofrece el catálogo completo de Prime Video sin interrupciones publicitarias. Disfruta de tus películas y series favoritas con una experiencia de visualización fluida y sin comerciales."
       },
       {
+        "id": "jellyfin",
+        "pregunta": "Jellyfin",
+        "precio": "40 MX",
+        "stock": 10,
+        "descripcion": "Jellyfin es un servidor multimedia gratuito y de código abierto que te permite organizar, gestionar y transmitir tu colección de videos, música, fotos y otros archivos a cualquier dispositivo."
+      },
+      {
+        "id": "magis_tv",
+        "pregunta": "Magis TV",
+        "precio": "35 MX",
+        "stock": 10,
+        "descripcion": "Magis TV es un servicio de IPTV, un protocolo que sirve para transmitir televisión en directo a través de Internet."
+      },
+      {
+        "id": "iptv",
+        "pregunta": "IPTV Smarters Pro",
+        "precio": "20 MX",
+        "stock": 10,
+        "descripcion": "IPTV Smarters Pro es una aplicación reproductora de contenido de IPTV que permite a los usuarios reproducir listas de reproducción M3U y conectarse a servicios de streaming a través de portales Xtream Code."
+      },
+      {
+        "id": "telelatino",
+        "pregunta": "Tele Latino",
+        "precio": "35 MX",
+        "stock": 10,
+        "descripcion": "Universal+ es un servicio de streaming y un paquete de canales de TV paga de NBCUniversal, que ofrece contenido premium de series, películas y reality shows para audiencias de Latinoamérica y Brasil."
+      },
+      {
         "id": "paramount",
         "pregunta": "Perfil Paramount",
         "precio": "5 MX",
@@ -145,6 +173,41 @@
         "precio": "35 MX",
         "stock": 10,
         "descripcion": "Una cuenta completa de Max con visualización en 2 dispositivos, resolución Full HD y sonido estéreo. Accede a todo el catálogo de películas y series originales de Max."
+      },
+            {
+        "id": "chat_gtp",
+        "pregunta": "Chat GTP",
+        "precio": "90 MX",
+        "stock": 10,
+        "descripcion": "Una suscripción a ChatGPT Plus te da acceso prioritario a los modelos más avanzados de OpenAI, incluyendo GPT-4o, con límites de uso ampliados y funciones exclusivas para mejorar tu productividad y creatividad."
+      },
+      {
+        "id": "jellyfin",
+        "pregunta": "Jellyfin",
+        "precio": "65 MX",
+        "stock": 10,
+        "descripcion": "Jellyfin es un servidor multimedia gratuito y de código abierto que te permite organizar, gestionar y transmitir tu colección de videos, música, fotos y otros archivos a cualquier dispositivo."
+      },
+      {
+        "id": "magis_tv",
+        "pregunta": "Magis TV",
+        "precio": "60 MX",
+        "stock": 10,
+        "descripcion": "Magis TV es un servicio de IPTV, un protocolo que sirve para transmitir televisión en directo a través de Internet."
+      },
+      {
+        "id": "iptv",
+        "pregunta": "IPTV Smarters Pro",
+        "precio": "35 MX",
+        "stock": 10,
+        "descripcion": "IPTV Smarters Pro es una aplicación reproductora de contenido de IPTV que permite a los usuarios reproducir listas de reproducción M3U y conectarse a servicios de streaming a través de portales Xtream Code."
+      },
+      {
+        "id": "universal",
+        "pregunta": "Universal +",
+        "precio": "45 MX",
+        "stock": 10,
+        "descripcion": "Universal+ es un servicio de streaming y un paquete de canales de TV paga de NBCUniversal, que ofrece contenido premium de series, películas y reality shows para audiencias de Latinoamérica y Brasil."
       },
       {
         "id": "max_platino_completo",
@@ -328,11 +391,25 @@
     ],
     "👽 EXTRAS": [
       {
-        "id": "office_1",
-        "pregunta": "Invitación Office (Un mes)",
-        "precio": "25 MX",
+        "id": "office_6",
+        "pregunta": "Invitación Office (6 meses)",
+        "precio": "90 MX",
         "stock": 10,
         "descripcion": "Una suscripción a Microsoft Office 365 te da acceso a las aplicaciones de Office como Word, Excel y PowerPoint. También incluye 1 TB de almacenamiento en la nube en OneDrive y asistencia técnica."
+      },
+      {
+        "id": "office_1",
+        "pregunta": "Invitación Office (1 año)",
+        "precio": "165 MX",
+        "stock": 10,
+        "descripcion": "Una suscripción a Microsoft Office 365 te da acceso a las aplicaciones de Office como Word, Excel y PowerPoint. También incluye 1 TB de almacenamiento en la nube en OneDrive y asistencia técnica."
+      },
+      {
+        "id": "xboxgamepass",
+        "pregunta": "Xbox Game Pass Ultimate(Un mes)",
+        "precio": "120 MX",
+        "stock": 10,
+        "descripcion": "Disfruta de nuevos juegos desde el mismo día de su lanzamiento y de cientos de juegos de alta calidad en tu consola, PC y la nube. Siempre hay algo nuevo a lo que jugar con Ultimate."
       },
       {
         "id": "gemini",
@@ -356,14 +433,14 @@
         "descripcion": "Deezer Premium te permite escuchar música sin anuncios, saltar canciones de forma ilimitada y descargar tus canciones y podcasts favoritos para escucharlos sin conexión."
       },
       {
-        "id": "chat_gtp",
-        "pregunta": "Invitación Chat GTP",
+        "id": "chat_gpt",
+        "pregunta": "Chat GTP(1 mes)",
         "precio": "40 MX",
         "stock": 10,
         "descripcion": "Una suscripción a ChatGPT Plus te da acceso prioritario a los modelos más avanzados de OpenAI, incluyendo GPT-4o, con límites de uso ampliados y funciones exclusivas para mejorar tu productividad y creatividad."
       },
       {
-        "id": "piscard",
+        "id": "picsart",
         "pregunta": "PicsArt",
         "precio": "35 MX",
         "stock": 10,
